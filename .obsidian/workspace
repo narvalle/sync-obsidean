@@ -7,10 +7,9 @@
         "id": "3f19794d0cbd523c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "_test/Test Sync.md",
-            "mode": "source"
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_test/Test Sync.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,8 @@
   },
   "active": "3f19794d0cbd523c",
   "lastOpenFiles": [
-    "_test/Test Sync.md",
-    "_test/Untitled.md"
+    "Untitled Kanban.md",
+    "_test/Untitled.md",
+    "_test/Test Sync.md"
   ]
 }
